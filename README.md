@@ -12,7 +12,7 @@ In the "Files" section, you will find a folder named "Text-module3." This folder
 - **roget_thesaurus_1911_love_words.txt** (word list from a 1911 Roget thesaurus for love)
 - **roget_thesaurus_1911_fear_words.txt** (word list from a 1911 Roget thesaurus for fear)
 
-## Assignment Details
+## Project Details
 Your task is to generate a scatter plot with 12 dots, each corresponding to one of the novels. The x-axis of the plot should represent the fraction of times "love" words are mentioned, and the y-axis should represent the fraction of times "fear" words are mentioned. These fractions should be calculated relative to the total length of each respective book.
 
 ## Important Note
